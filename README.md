@@ -10,6 +10,6 @@ This script has only be tested on Linux (specifically Ubuntu 21.04), other opera
 ### OSes
 
 - Linux => **ONLY TESTED ON UBUNTU 21.04**
-- Windows => **UNTESTED**
+- Windows => **NOT WORKING DUE TO COLON IN FOLDERS**
 - MacOS => **UNTESTED**
 - Others => **UNTESTED**
